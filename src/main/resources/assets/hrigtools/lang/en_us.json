@@ -1,0 +1,18 @@
+{
+  "item.hrigtools.sapphire": "Sapphire",
+  "item.hrigtools.raw_sapphire": "Raw Sapphire",
+  "item.hrigtools.metal_detector": "Metal Detector",
+
+  "item.hrigtools.sapphire_sword": "Sapphire Sword",
+  "item.hrigtools.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.hrigtools.sapphire_axe": "Sapphire Axe",
+  "item.hrigtools.sapphire_shovel": "Sapphire Shovel",
+  "item.hrigtools.sapphire_hoe": "Sapphire Hoe",
+
+
+
+
+  "tooltip.hrigtools.metal_detector.tooltip": "Finds valuables underground",
+
+  "creativetab.hrigtools_tab": "Sapphire Tutorial Tab"
+}

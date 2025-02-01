@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "hrigtools:item/sapphire_pickaxe"
+  }
+}
